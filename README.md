@@ -6,8 +6,7 @@ extendability and maintainability.
 
 ## License
 
-MIT License &copy; 2023 Dom Webber
-&copy 2023 Relucent Ltd
+MIT License &copy; 2023 Dom Webber, Relucent Ltd & Contributors
 
 ### Contact
 
