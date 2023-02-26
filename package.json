@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "npm-run-all lint:*",
     "lint:markdownlint": "markdownlint **/*.md --ignore node_modules --fix",
-    "lint:cspell": "cspell **/*",
+    "lint:cspell": "cspell .  **/*",
     "lint:alex": "alex ."
   },
   "devDependencies": {
