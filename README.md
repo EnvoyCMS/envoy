@@ -52,7 +52,8 @@ Where possible, files should include the following signature at the top:
 ```
 
 ```css
-/*! Envoy CMS | (c) 2023 Dom Webber, Relucent Ltd & Contributors | https://github.com/domwebber/envoy */
+/*! Envoy CMS | (c) 2023 Dom Webber, Relucent Ltd & Contributors
+| https://github.com/domwebber/envoy */
 ```
 
 ```bash
