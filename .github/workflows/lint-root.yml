@@ -1,5 +1,10 @@
 name: Lint Root Files
-on: [push]
+on:
+  push:
+    paths:
+      - ./.github/workflows/*
+      - docs/**
+      - ./*
 permissions:
   contents: read
   packages: read
