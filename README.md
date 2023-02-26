@@ -23,8 +23,16 @@ MIT License &copy; 2023 Dom Webber, Relucent Ltd & Contributors
 
 ### Contact
 
-**Relucent Ltd**: <https://relucent.dev> <<hello@relucent.dev>>
+*This project is supported by [Relucent][licensing-relucent] - started as a
+personal project by [Dom Webber][licensing-domwebber].*
 
-**Project Manager**: Dom Webber <<dom.webber@hotmail.com>>
+**Relucent Ltd**: [https://relucent.dev][licensing-relucent] <<hello@relucent.dev>>
+
+**Project Manager**: [Dom Webber][licensing-domwebber] <<dom.webber@hotmail.com>>
 
 > See [Acknowledgements](ACKNOWLEDGEMENTS.md)
+
+<!-- References: -->
+<!-- Ownership, Licensing & Copyright: -->
+[licensing-relucent]: https://relucent.dev "Relucent's Website"
+[licensing-domwebber]: https://github.com/domwebber "Dom Webber's GitHub Profile"
