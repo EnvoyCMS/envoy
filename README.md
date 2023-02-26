@@ -26,6 +26,41 @@ efforts is Netlify's Jamstack website detailing some options in regards to
 
 > See our [comparisons](./docs/comparison/).
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to
+discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+### File Signatures
+
+Where possible, files should include the following signature at the top:
+
+```typescript
+/**
+ * Envoy CMS.
+ *
+ * @since     1.0.0
+ * @module    Envoy
+ * @copyright 2023 Dom Webber, Relucent Ltd & Contributors
+ * @author    Dom Webber <dom.webber@hotmail.com> (https://github.com/domwebber)
+ * @author    Relucent Ltd <hello@relucent.dev> (https://relucent.dev)
+ * @author    Contributors (https://github.com/envoy/graphs/contributors)
+ * @see       {@link https://github.com/domwebber/envoy}
+ */
+```
+
+```css
+/*! Envoy CMS | (c) 2023 Dom Webber, Relucent Ltd & Contributors | https://github.com/domwebber/envoy */
+```
+
+```bash
+# Envoy CMS.
+# (c) 2023 Dom Webber, Relucent Ltd & Contributors
+# https://github.com/domwebber/envoy
+```
+
 ## License
 
 MIT License &copy; 2023 Dom Webber, Relucent Ltd & Contributors
