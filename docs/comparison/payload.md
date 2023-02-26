@@ -1,6 +1,6 @@
 # Envoy CMS vs Payload CMS
 
-[Payload CMS](https://payloadcms.com/) is an open-source, headless, content
+[Payload CMS][tech-payload] is an open-source, headless, content
 management system for websites, web apps, native apps, e-commerce,
 subscriptions and omnichannel content distribution.
 
@@ -14,3 +14,6 @@ subscriptions and omnichannel content distribution.
 > my solution working - even with plugins and customisations, I just had too
 > hard of a time trying to get something working in the way that I was hoping
 > it would.”
+
+<!-- References: -->
+[tech-payload]: https://payloadcms.com "Payload CMS' Website"
