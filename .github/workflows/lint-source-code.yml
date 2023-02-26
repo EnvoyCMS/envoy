@@ -2,8 +2,8 @@ name: Lint Source Code
 on:
   push:
     paths:
-      - ./.github/workflows/*
-      - packages/**
+      - /.github/workflows/*
+      - /packages/**
 permissions:
   contents: read
   packages: read
