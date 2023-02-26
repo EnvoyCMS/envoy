@@ -12,7 +12,9 @@ similar problems.
 
 ### Envoy CMS vs Payload CMS
 
-> **Note from the author of Envoy CMS** \
+> **Note from the author of Envoy CMS**
+>
+> ```txt
 > “Payload CMS is a very strong content management system with strong community
 > support and very strong featureset. I worked, personally, for a while with
 > Payload CMS, however, working with NextJS I simply ran into too many walls
@@ -21,6 +23,7 @@ similar problems.
 > my solution working - even with plugins and customisations, I just had too
 > hard of a time trying to get something working in the way that I was hoping
 > it would.”
+> ```
 
 ## License
 
