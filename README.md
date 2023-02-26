@@ -10,6 +10,11 @@ Envoy CMS builds on ideas from other content management systems, yet, without
 intending to further convolute the CMS sphere this CMS addresses different but
 similar problems.
 
+### Key Features of Envoy CMS
+
+- Whitepaper Content Management System
+- Code-first structural approach
+
 ### Envoy CMS vs Payload CMS
 
 > **Note from the author of Envoy CMS**
