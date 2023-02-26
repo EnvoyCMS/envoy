@@ -1,6 +1,7 @@
 # Envoy CMS
 
-[![Lint Source Code](https://github.com/domwebber/envoy/actions/workflows/ci.yml/badge.svg)](https://github.com/domwebber/envoy/actions/workflows/ci.yml)
+[![Lint Root Files](https://github.com/domwebber/envoy/actions/workflows/lint-root.yml/badge.svg)](https://github.com/domwebber/envoy/actions/workflows/lint-root.yml)
+[![Lint Source Code](https://github.com/domwebber/envoy/actions/workflows/lint-source-code.yml/badge.svg)](https://github.com/domwebber/envoy/actions/workflows/lint-source-code.yml)
 
 A code-first, developer-friendly, open source content management system built
 on open-source software, open-standards and best practice for customisability,
