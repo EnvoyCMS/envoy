@@ -13,6 +13,13 @@
 
 module.exports = core;
 
+/**
+ * Envoy CMS.
+ *
+ * @since 1.0.0
+ * @author Dom Webber <dom.webber@hotmail.com>
+ * @returns {string} an example string
+ */
 function core() {
-    return "Hello from core";
+  return "Hello from core";
 }
