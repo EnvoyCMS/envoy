@@ -1,0 +1,34 @@
+{
+  "name": "@envoy-cms/core",
+  "version": "1.0.0",
+  "description": "Envoy CMS Core",
+  "keywords": [
+    "content",
+    "management",
+    "cms",
+    "relucent"
+  ],
+  "author": "Dom Webber <dom.webber@hotmail.com>",
+  "homepage": "https://relucent.dev",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "directories": {
+    "src": "src",
+    "dist": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/envoycms/envoy.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/envoycms/envoy/issues"
+  }
+}
