@@ -2,7 +2,7 @@
  * Envoy CMS.
  *
  * @since     1.0.0
- * @module    Envoy
+ * @module    Envoy/Core
  * @license   MIT
  * @copyright 2023 Dom Webber, Relucent Ltd & Contributors
  * @author    Dom Webber <dom.webber@hotmail.com> (https://github.com/domwebber)
