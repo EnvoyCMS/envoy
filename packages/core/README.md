@@ -1,11 +1,3 @@
-# `core`
+# @envoy-cms/core
 
-> TODO: description
-
-## Usage
-
-```
-const core = require('core');
-
-// TODO: DEMONSTRATE API
-```
+> See [monorepo](https://github.com/EnvoyCMS/envoy).
