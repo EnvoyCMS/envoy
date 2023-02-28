@@ -1,6 +1,6 @@
 {
   "name": "@envoy-cms/core",
-  "version": "1.0.0-alpha.5+778bb4c",
+  "version": "1.0.0-alpha.6+7443d44",
   "description": "Envoy CMS Core",
   "keywords": [
     "content",
@@ -39,5 +39,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "778bb4c7254c021d8bdb33ae0c3808c4279e0dbf"
+  "gitHead": "7443d44537c3bed574b9ae01219d1dc6cf4b8f3e"
 }
