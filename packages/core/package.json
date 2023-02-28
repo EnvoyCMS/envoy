@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:envoycms/envoy.git"
+    "url": "git+ssh://git@github.com/envoycms/envoy.git"
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js",
@@ -41,7 +41,7 @@
     "build-production:types": "tsc --emitDeclarationOnly",
     "lint": "npm-run-all lint:*",
     "lint:typecheck": "tsc --noEmit",
-    "lint:eslint": "eslint src/**/* --fix"
+    "lint:eslint": "eslint src/**/* __tests__/**/* --fix"
   },
   "bugs": {
     "url": "https://github.com/envoycms/envoy/issues"
