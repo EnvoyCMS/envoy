@@ -1,6 +1,6 @@
 {
   "name": "@envoy-cms/core",
-  "version": "1.0.0-alpha.1+9edd42a",
+  "version": "1.0.0-alpha.1",
   "description": "Envoy CMS Core",
   "keywords": [
     "content",
