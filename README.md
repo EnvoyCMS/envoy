@@ -8,6 +8,8 @@ extendability and maintainability.
 
 - Whitepaper Content Management System
 - Code-first structural approach
+- No arbitrary errors to fix - nothing like: \
+  `[14:22:59] ERROR (xxx): 1: Collection "page" > Field "layout" > "value" does not match any of the allowed types`
 
 ## Comparison
 
