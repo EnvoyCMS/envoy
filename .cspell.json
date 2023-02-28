@@ -18,7 +18,11 @@
         "Relucent",
         "Jamstack",
         "omnichannel",
-        "featureset"
+        "featureset",
+        "envoycms"
     ],
-    "ignoreWords": []
+    "ignoreWords": [
+        "Toru",
+        "Nagashima"
+    ]
 }
