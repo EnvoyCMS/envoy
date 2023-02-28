@@ -23,12 +23,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/envoycms/envoy.git"
+    "url": "git+ssh://git@github.com:envoycms/envoy.git"
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js"
   },
   "bugs": {
     "url": "https://github.com/envoycms/envoy/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
