@@ -31,7 +31,10 @@
     "url": "git+ssh://git@github.com:envoycms/envoy.git"
   },
   "scripts": {
-    "test": "node ./__tests__/core.test.js"
+    "test": "node ./__tests__/core.test.js",
+    "lint": "npm-run-all lint:*",
+    "lint:typecheck": "tsc --noEmit",
+    "lint:eslint": "eslint src/**/* --fix"
   },
   "bugs": {
     "url": "https://github.com/envoycms/envoy/issues"
