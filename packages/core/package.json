@@ -17,6 +17,7 @@
   "homepage": "https://relucent.dev",
   "license": "MIT",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "directories": {
     "src": "src",
     "dist": "dist",
@@ -32,6 +33,12 @@
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js",
+    "build": "npm-run-all build:*",
+    "build:webpack": "webpack",
+    "build:types": "tsc --emitDeclarationOnly",
+    "build-production": "npm-run-all build-production:*",
+    "build-production:webpack": "webpack --env=production",
+    "build-production:types": "tsc --emitDeclarationOnly",
     "lint": "npm-run-all lint:*",
     "lint:typecheck": "tsc --noEmit",
     "lint:eslint": "eslint src/**/* --fix"
