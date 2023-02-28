@@ -1,0 +1,52 @@
+{
+  "name": "@envoy-cms/admin",
+  "version": "1.0.0-alpha.9",
+  "description": "The admin-UI elements of Envoy CMS",
+  "keywords": [
+    "content",
+    "management",
+    "cms",
+    "relucent"
+  ],
+  "author": "Dom Webber <dom.webber@hotmail.com>",
+  "contributors": [
+    "Dom Webber <dom.webber@hotmail.com>",
+    "Relucent Ltd <hello@relucent.dev>",
+    "Contributors"
+  ],
+  "homepage": "https://relucent.dev",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "directories": {
+    "src": "src",
+    "dist": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/envoycms/envoy.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/admin.test.js",
+    "build": "npm-run-all build:*",
+    "build:webpack": "webpack",
+    "build:types": "tsc --emitDeclarationOnly",
+    "build-production": "npm-run-all build-production:*",
+    "build-production:webpack": "webpack --env=production",
+    "build-production:types": "tsc --emitDeclarationOnly",
+    "lint": "npm-run-all lint:*",
+    "lint:typecheck": "tsc --noEmit",
+    "lint:eslint": "eslint src/**/* __tests__/**/* --fix"
+  },
+  "bugs": {
+    "url": "https://github.com/envoycms/envoy/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
