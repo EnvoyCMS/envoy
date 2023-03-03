@@ -19,7 +19,8 @@
         "Jamstack",
         "omnichannel",
         "featureset",
-        "envoycms"
+        "envoycms",
+        "typecheck"
     ],
     "ignoreWords": [
         "Toru",
