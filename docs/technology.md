@@ -9,3 +9,6 @@ system function.
 - NodeJS
 - NextJS
 - PrismaDB
+
+> For an in-depth look at what specific technologies, software and libraries
+> this system uses, see the [Acknowledgements file](../ACKNOWLEDGEMENTS.md).
